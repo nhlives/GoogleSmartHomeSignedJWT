@@ -23,5 +23,5 @@ You will need these two items to run the program: The IAM email address and the 
  
  {"access_token":"ya29.c.Ko8Bxgf8jeot3E8Y_6tzdpKOIj4LI7-TYnCxnWoF71EW2uCU0xZReIPpP-REVRh6eeV4tMB6ARQiQzeGq_PM9QWpo__at2H2PdXZZUsfbP3ZSlfqA-kztdtCOJD9TXQJPMCfU0fteBX_C_OWceA3YeOcLjBzVtpaL36e5qW0ZuYGndo2-txq_GpQQVpxET3D8aU","expires_in":3599,"token_type":"Bearer"}
  
- Use this token to report state or request sync.
+ Use this token to report state or request sync. This access token also expires and the process is repeated to get a new token.
  
