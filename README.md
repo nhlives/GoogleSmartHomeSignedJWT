@@ -14,7 +14,7 @@ You will need these two items to run the program: The IAM email address and the 
 
  Note: the Crypto API only works on .Netcore 3.X. The Microsoft.IdentityModel.Tokens is a GUGet package.
 
- Finally, a command application is not too practical for production.  This application creates a token that expires in 60 minutes.
+ Finally, a command line application is not too practical for production.  This application creates a token that expires in 60 minutes.
  If you port this to a website, IIS must have "Load Profiles" set to "true" or the Crypto API will fail.
  
  The initial signed JWT is temporary and must be submitted to the Google OAuth token exchange site for a new access token.  
