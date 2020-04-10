@@ -4,7 +4,7 @@ a certificate created on your Google Cloud Console(GCC).  Details are available 
 https://developers.google.com/assistant/smarthome/develop/report-state
 https://developers.google.com/assistant/smarthome/develop/request-sync
 
-Google doesn't provide a .Net solutions as they do for Node.js and Java.  There are solutions available at http://jwt.io.
+Google doesn't provide a .Net solution as they do for Node.js and Java.  There are solutions available at http://jwt.io.
 
 In order to get your GoogleHome app certified, you must implement at least request sync.
 
