@@ -8,7 +8,7 @@ Google doesn't provide a .Net solutions as they do for Node.js and Java.  There 
 
 In order to get your GoogleHome app certified, you must implement at least request sync.
 
-Download a .p12 to use for the certicate private key and that needs to be in the project root directory
+Download a .p12 to use for the certificate private key and that needs to be in the project root directory
 The "iss" claim is the email address of the IAM account.  This is available in the GCC.
 You will need these two items to run the program: The IAM email address and the .p12 file
 
